@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hello all..Ima guy interested in learning and implementing through various interactive methods.<br>My areas of interest include Physics|Maths|Quantum Computing|Data Science|GPU technologies.<br>Always open to help in projects or work in above fields with people from all walks of life.
 
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alencfrancis@gmail.com) 
 
