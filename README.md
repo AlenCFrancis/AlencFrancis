@@ -1,5 +1,5 @@
 # ME ?:
-Hello all..Ima guy interested in learning and implementing through various interactive methods.<br>My areas of interest include Physics|Maths|Quantum Computing|Data Science|GPU technologies.<br>Always open to help in projects or work in above fields with people from all walks of life.
+Hello all..Ima guy interested in learning and implementing through various interactive methods.<br>My areas of interest include Physics|Maths|Quantum Computing|Data Science.<br>Always open to help in projects or work in above fields with people from all walks of life.
 
 
 ## 🌐 Contact Me at:
