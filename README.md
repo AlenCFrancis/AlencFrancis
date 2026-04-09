@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🔝 TOP BANNER -->
-<img src="https://i.etsystatic.com/30934621/r/il/de5e2b/4858285884/il_1588xN.4858285884_elhd.jpg" width="100%"/>
+<img src="https://i.pinimg.com/736x/00/61/60/006160e2c1859ae3efa01b63b47b45ae.jpg" width="100%"/>
 
 # Hi there! I'm Alen 👋
 
