@@ -93,9 +93,6 @@ root@ALEN-C-FRANCIS:~$ ./status --current
 
 ##  TELEMETRY & METRICS
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlenCFrancis&theme=tokyonight" alt="GitHub Stats" width="800" />
-</div>
 <br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlenCFrancis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=C9D1D9" alt="GitHub Stats" width="49%" />
