@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=200&section=header&text=Alen%20C%20Francis&fontSize=50&fontAlignY=35&desc=Data%20Science%20%7C%20Quantum%20Computing%20%7C%20GPU%20Technologies&descAlignY=55&descAlign=50&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=200&section=header&text=Alen%20C%20Francis&fontSize=50&fontAlignY=35&desc=Data%20Science%20%7C%20Quantum%20Computing%20%7C%20RAG%20and%20LLM%20Technologies&descAlignY=55&descAlign=50&animation=twinkling" />
 </div>
 
 <div align="center">
