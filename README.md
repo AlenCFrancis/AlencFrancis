@@ -47,7 +47,7 @@ I enjoy exploring how intelligent systems can work together, reason more effecti
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -108,13 +108,25 @@ I enjoy exploring how intelligent systems can work together, reason more effecti
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlenCFrancis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=C9D1D9" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlenCFrancis&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AlenCFrancis&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=C9D1D9&rank_icon=github" alt="Alen's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlenCFrancis&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9" alt="Alen's most used languages" />
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlenCFrancis&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=00FFFF" alt="Activity Graph" width="100%" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlenCFrancis&hide_border=true&background=0D1117&ring=00FFFF&fire=8A2BE2&currStreakLabel=00FFFF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Alen's GitHub contribution streak" />
 </div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlenCFrancis&bg_color=0D1117&color=00FFFF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Alen's contribution activity graph" width="95%" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlenCFrancis&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile views" />
+</p>
 
 ---
 
@@ -135,4 +147,3 @@ I’m open to collaborations, learning opportunities, and projects involving:
 - Data science and analytics solutions
 
 If you’d like to connect, feel free to reach out via LinkedIn or email.
-
