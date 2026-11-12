@@ -1,149 +1,161 @@
-# Alen C Francis
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=200&section=header&text=Alen%20C%20Francis&fontSize=50&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Quantum%20Computing&descAlignY=75&descSize=18&fontColor=ffffff&animation=fadeIn" alt="Header" />
+  <img src="./assets/banner.svg" alt="Alen C Francis - AI, ML and Quantum Computing" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=AI+%7C+Machine+Learning;Quantum+Computing;Multi-Agentic+Systems;Data+Science+%26+Research" alt="Typing SVG" />
-</div>
+<br />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alen-c-francis-0b6981372"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/AlenCFrancis"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:alencfrancis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AlenCFrancis&label=Profile%20Views&color=00F5FF&style=for-the-badge" alt="Profile views" />
 </p>
 
----
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
-## About Me
+## 🖥️ `whoami`
 
-I am a Computer Science Engineering student with a strong interest in emerging technologies and intelligent systems. My work and learning are centered around:
+```ts
+// alen.config.ts
+const alen = {
+  role:      "Computer Science Engineering Student",
+  location:  "Kerala, India 🇮🇳",
+  obsessions: ["Quantum Computing", "Multi-Agent AI", "Machine Learning", "Data Science"],
+  currentlyBuilding: "agents that reason, collaborate & adapt",
+  superpower: "connecting research ideas to real-world impact",
+  funFact:   "I think in qubits, but I ship in Python ⚛️🐍",
+  openTo:    ["collabs", "research", "hackathons", "wild ideas"],
+} as const;
+```
 
-- Quantum computing and quantum-inspired problem solving
-- Multi-agentic AI systems and autonomous workflows
-- Artificial intelligence and machine learning
-- Data science, analytics, and applied intelligence
-- Building practical solutions that combine research with real-world impact
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
-I enjoy exploring how intelligent systems can work together, reason more effectively, and solve problems across domains such as automation, decision support, and optimization.
+## 🎯 Current Focus
 
----
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>⚛️</h3>
+      <b>Quantum Computing</b><br />
+      <sub>Circuit-based problem solving & quantum-inspired optimization</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🤖</h3>
+      <b>Multi-Agent AI</b><br />
+      <sub>Collaborative architectures & autonomous workflows</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>✨</h3>
+      <b>GenAI & LLMs</b><br />
+      <sub>LLM pipelines & intelligent automation</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>📈</h3>
+      <b>ML & Analytics</b><br />
+      <sub>Model experimentation & data-driven insights</sub>
+    </td>
+  </tr>
+</table>
 
-## Current Focus
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
-- Quantum computing concepts and circuit-based problem solving
-- Multi-agent systems and collaborative AI architectures
-- Generative AI, LLM workflows, and intelligent automation
-- Machine learning model development and experimentation
-- Data-driven insight generation and applied analytics
+## 🛠️ Tech Arsenal
 
----
+<details open>
+<summary><b>🧪 AI, ML & Data Science</b></summary>
+<br />
 
-## Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy&theme=dark" alt="AI ML icons" />
+</p>
 
-### AI, ML & Data Science
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### Multi-Agentic & AI Systems
+</details>
+
+<details open>
+<summary><b>🤖 Multi-Agentic & AI Systems</b></summary>
+<br />
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-00BFFF?style=for-the-badge&logo=ai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTEyIDJsMi4yIDcuOEwyMiAxMmwtNy44IDIuMkwxMiAyMmwtMi4yLTcuOEwyIDEybDcuOC0yLjJ6IiBmaWxsPSIjRkZGRkZGIi8%2BPC9zdmc%2B)
+![AI Agents](https://img.shields.io/badge/AI_Agents-00BFFF?style=for-the-badge&logo=probot&logoColor=white)
 
-### Quantum Computing
+</details>
+
+<details open>
+<summary><b>⚛️ Quantum Computing</b></summary>
+<br />
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![Quantum](https://img.shields.io/badge/Quantum-0A0A0A?style=for-the-badge&logo=quantum&logoColor=white)
+![Quantum Circuits](https://img.shields.io/badge/Quantum_Circuits-0A0A0A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBGNUZGIiBzdHJva2Utd2lkdGg9IjEuNiI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMS44IiBmaWxsPSIjMDBGNUZGIi8%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iMTIiIHJ4PSIxMCIgcnk9IjQiLz48ZWxsaXBzZSBjeD0iMTIiIGN5PSIxMiIgcng9IjEwIiByeT0iNCIgdHJhbnNmb3JtPSJyb3RhdGUoNjAgMTIgMTIpIi8%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iMTIiIHJ4PSIxMCIgcnk9IjQiIHRyYW5zZm9ybT0icm90YXRlKDEyMCAxMiAxMikiLz48L3N2Zz4%3D)
 
-### Web & Data Platforms
+</details>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<details open>
+<summary><b>🌐 Web & Data Platforms</b></summary>
+<br />
 
-### Embedded Systems & IoT
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,mysql,postgres,mongodb,supabase&theme=dark" alt="Web icons" />
+</p>
+
+</details>
+
+<details open>
+<summary><b>🔌 Embedded Systems & IoT</b></summary>
+<br />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,arduino&theme=dark" alt="Embedded icons" />
+</p>
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
----
+</details>
 
-## Featured Project
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
-<table align="center">
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <h3 align="center">GramAlert2.0</h3>
-      <p align="center"><i>A civic grievance reporting and community alert platform designed to improve communication between citizens and local governance.</i></p>
-      <ul style="text-align: left; display: inline-block;">
-        <li>Citizen grievance reporting</li>
-        <li>Tracking and resolution workflow</li>
-        <li>Community alerting and engagement</li>
-        <li>Admin and user management</li>
-      </ul>
-      <br />
-      <a href="https://github.com/AlenCFrancis/GramAlert2.0"><img src="https://img.shields.io/badge/View_Project-0000FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a>
-    </td>
-  </tr>
-</table>
-
----
-
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AlenCFrancis&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=C9D1D9&rank_icon=github" alt="Alen's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlenCFrancis&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9" alt="Alen's most used languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AlenCFrancis&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=8A2BE2&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlenCFrancis&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="Top languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlenCFrancis&hide_border=true&background=0D1117&ring=00FFFF&fire=8A2BE2&currStreakLabel=00FFFF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Alen's GitHub contribution streak" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=AlenCFrancis&hide_border=true&background=0D1117&ring=00F5FF&fire=8A2BE2&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Contribution streak" />
 </div>
 
-<br />
+<img src="./assets/divider.svg" width="100%" alt="divider" />
+
+## 💭 Vision
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlenCFrancis&bg_color=0D1117&color=00FFFF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Alen's contribution activity graph" width="95%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=18&duration=4000&pause=1500&color=A855F7&center=true&vCenter=true&width=800&height=60&lines=The+future+lies+in+building+systems+that+are+not+just+intelligent,;but+collaborative,+adaptive,+and+capable+of+solving+complex+problems+at+scale." alt="Vision" />
 </div>
+
+<img src="./assets/divider.svg" width="100%" alt="divider" />
+
+## 🤝 Let's Connect
+
+I'm open to collaborations, learning opportunities, and projects involving:
+
+| ⚛️ Quantum | 🤖 Agents | ⚙️ Automation | 🧠 ML | 📊 Data |
+|:---:|:---:|:---:|:---:|:---:|
+| Research & experimentation | Multi-agent AI systems | Smart, applied AI | Real-world ML apps | Analytics solutions |
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlenCFrancis&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/alen-c-francis-0b6981372"><img src="https://img.shields.io/badge/Say_Hi_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:alencfrancis@gmail.com"><img src="https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
-## Vision
-
-> “The future lies in building systems that are not just intelligent, but collaborative, adaptive, and capable of solving complex problems at scale.”
-
----
-
-## Connect
-
-I’m open to collaborations, learning opportunities, and projects involving:
-
-- Quantum computing research and experimentation
-- Multi-agent AI systems
-- Smart automation and applied AI
-- Machine learning applications
-- Data science and analytics solutions
-
-If you’d like to connect, feel free to reach out via LinkedIn or email.
+<p align="center"><sub>⚛️ built with curiosity, qubits & a lot of ☕</sub></p>
